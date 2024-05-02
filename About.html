@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>About</title>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+  <!-- Bootstrap CSS v5.2.1 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="project.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&family=Sevillana&display=swap" rel="stylesheet">
+  <style>
+    #picture{
+      background-image: url(images/d.jpg);
+      height: 550px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+    }
+  </style>
+</head>
+
+
+<body>
+  <header>
+    <!-- place navbar here -->
+    <section id="picture">
+      <nav class="navbar navbar-expand-lg  ">
+        <div class="container-fluid" >
+          <a class="navbar-brand" href="#">Cosmos Wonders Hub</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="gap" id="navbarNavDropdown">
+            <ul class="navbar-nav gap-3 align-content-center my-auto">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="project.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="information.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Space.html">Blogs</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Sun</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="moon.html">Moon</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="theory.html">Earth</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Event.html">Event</a>
+              </li>
+            </ul>
+          </div>
+          <a href="theory.html"><button class="btn btn-lg btn-outline-warning">Get Register</button></a>
+        </div>
+      </nav>
+    </section>
+  </header>
+
+  <div class="container-fluid mt-5">
+    <div class="row">
+      <div class="col-lg-6">
+        
+          <img src="" id="image"
+            class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="" style="width: 100%; height: 500px;">
+
+            <h1 class="mt-3 display-2 text-center" id="heading">  </h1>
+            <table class="table table-bordered mt-5">
+              <tr>
+                <th> Designation </th>
+                <td id="designation" class="bg-light">NGC 1232 </td>
+              </tr>
+              <tr>
+                <th class="bg-light"> Type </th>
+                <td id="type"> Barred Spiral </td>
+              </tr>
+              <tr>
+                <th> Diameter </th>
+                <td id="diameter" class="bg-light"> 120,000 </td>
+              </tr>
+             
+                <th class="bg-light"> Distance </th>
+                <td id="distance"> 28000 </td>
+              </tr>
+              <tr>
+                <th> Mass </th>
+                <td id="mass" class="bg-light">Trillion</td>
+              </tr>
+              <tr>
+                <th class="bg-light">Constillation</th>
+                <td id="constillation"> Cassiopeia</td>
+              </tr>
+            </table>
+
+      </div>
+      <div class="col-lg-6" id="style">
+        <h2 id="title"></h2>
+        <p class="lead" id="discription"></p>
+        <a href="project.html" class="btn btn-lg btn-warning" id="button">Go Back</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+
+    let variable = window.location.search
+    let get_variables = new URLSearchParams(variable)
+
+    let picture = get_variables.get("picture");
+    let title = get_variables.get("title");
+    let heading= get_variables.get("heading");
+    let discription = get_variables.get("discription");
+    let designation = get_variables.get("designation");
+    let type = get_variables.get("type");
+    let diameter = get_variables.get("diameter");
+    let mass = get_variables.get("mass");
+    let distance = get_variables.get("distance");
+    let constillation = get_variables.get("constillation");
+
+    document.getElementById("image").src = picture
+    document.getElementById("heading").innerHTML= heading
+    document.getElementById("title").innerHTML = title
+    document.getElementById("discription").innerHTML = discription
+    document.getElementById("designation").innerHTML = designation
+    document.getElementById("mass").innerHTML = mass
+    document.getElementById("distance").innerHTML = distance
+    document.getElementById("diameter").innerHTML = diameter
+    document.getElementById("constillation").innerHTML = constilltion
+    document.getElementById("type").innerHTML = type
+
+  </script>
+  <footer>
+    <section class="bg-black">
+      <div class="container-fluid  text-light mt-5 py-5">
+        <div class="row">
+          <div class="col-lg-2">
+            <ul style="list-style: none;">
+              <li>Home</li>
+              <li>News & Events</li>
+              <li>Portfolio</li>
+              <li>Team</li>
+              <li>Mission</li>
+            </ul>
+          </div>
+    
+          <div class="col-lg-2">
+            <ul style="list-style: none;">
+              <li>Information</li>
+              <li>Address</li>
+              <li>City</li>
+              <li>State</li>
+              <li>E-mail</li>
+            </ul>
+          </div>
+    
+    
+          <div class="col-md-4">
+            <h3>"Cosmic Wonders Hub"</h3>
+            <p class="lead">Astronomers explores the unknown in air and space, innovates for the benefit of humanity, and
+              inspires the world through discovery.</p>
+            <h5><a href="#" class="display-lead text-decoration-none"> About our team mission</a></h5>
+          </div>
+    
+    
+    
+          <div class="col-lg-4">
+            <p>Follow "Cosmic Wonders Hub"</p>
+            <div class="icons">
+              <span class="abc">
+                <i class="bi bi-google"></i>
+              </span>
+              <span class="abc">
+                <i class="bi bi-facebook"></i>
+              </span>
+              <span class="abc">
+                <i class="bi bi-instagram"></i>
+              </span>
+              <span class="abc">
+                <i class="bi bi-spotify"></i>
+              </span>
+            </div><br>
+            <input type="email" style="width:60%; display: inline;" placeholder="Enter Email" class="form-control ">
+            <button class="btn  btn-warning">Submit</button>
+    
+          </div>
+    
+        </div>
+      </div>
+      <!-- map  -->
+      <div class="container-fluid ms-5 ps-3 bg-black">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d198740.0447331252!2d-77.30993284601404!3d38.893952580614844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sNasa!5e0!3m2!1sen!2s!4v1706222929841!5m2!1sen!2s" width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    </section>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

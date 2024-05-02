@@ -1,0 +1,196 @@
+[
+    {
+        "card_image" : "images/milkywayspace.webp",
+        "card_title" : "Milky-Way ",
+        "card_discription" : "The Milky Way is about 1 000 000 000 000 000 000 km about The Milky Way is about 1,000,000,000,000,000,000 km (about100,000 light years or about 30 kpc) across.The Milky Way is a huge collection of stars, dust and gas. It’s called a spiral galaxy because if you could view it from the topor bottom, it would look like a spinning pinwheel. The Sun is located on one of the spiral arms, about 25,000 light-years away from the center of the galaxy. Even if you could travel atthe speed of (300,000 kilometers, or 186,000 miles, per second),it would take you about 25,000 years to reach the  middle of the Milky Way Astronomers aren't quite sure how many planets are in the  Milky Way, given we have only found a few thousand all told, but one NASA estimate suggests it's more than 100 billion  planets. How many solar systems there are in the Milky Way is also a mystery, as we are still looking for the planets. Our solar system is made up of a star—the Sun—eight planets,     146 moons, a bunch of comets, asteroids and space rocks, ice,and several dwarf planets, such as Pluto. The eight planets are   Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.Mercury is closest to the Sun. It takes the Solar System about 240 million years to complete one orbit of the Milky Way (a galactic year),[105] so the Sun is thought to have completed 18–20 orbits during its lifetime and 1/1250 of a revolution since the origin of humans Asteroids, comets, and meteors are chunks of rock, ice, andmetal left over from the formation of our solar system 4.6billion years ago. They are a lot like a fossil record of our earlysolar system.There are currently about 1.3 million known asteroids, and  more than 3,800 known comets The eight planets are Mercury, Venus, Earth, Mars, Jupiter,   Saturn, Uranus, and Neptune. Mercury is closest to the Sun",
+        "card_button" : "View Details",
+        "card_designation" : "Undefined",
+        "card_type" : "Barred Spiral",
+        "card_diameter" : "120,000",
+        "Constillation" : "Cassiopeia",
+        "card_heading" : "Milky-way"
+    },
+    {
+        "card_image" : "images/black eye.webp",
+        "card_title" : "Black Eye Galaxy, Messier",
+        "card_discription" : "Discovery and Naming: The Black Eye Galaxy, also known as Messier 64 (M64) or NGC 4826, was first discovered by the British astronomer Edward Pigott in March 1779. Its distinctive appearance earned it the moniker Black Eyedue to the dark, absorbing band of dust that slashes across its bright nucleus.Location in the Universe: Situated approximately 17 million light-years away in the constellation Coma Berenices, the Black Eye Galaxy adorns our night sky with its alluring presence.Spiral Galaxy Classification: Classified as a spiral galaxy, M64 features a well-defined spiral structure with prominent arms sweeping outward from its central hub.Unique Dust Lane: The most prominent feature of the Black Eye Galaxy is its dark, absorbing dust lane that obscures part of the galaxy's bright core. This striking feature creates the appearance of a cosmic eye gazing into the depths of space. Active Galactic Nucleus: M64 harbors an active galactic nucleus, indicating the presence of a supermassive black hole at its center. This cosmic behemoth exerts a powerful gravitational pull, influencing the surrounding stars and gas Size and Mass: The Black Eye Galaxy spans about 80,000 light-years in diameter, making it comparable in size to our Milky Way galaxy. Its mass is estimated to be roughly 5 × 10^10 times that of our sun.Stellar Population: M64 is home to a diverse population of stars, ranging from young, hot blue stars in its spiral arms to older, cooler stars near its center. Spectacular Hubble Image: In 1994, the Hubble Space Telescope captured a mesmerizing image of the Black Eye Galaxy, revealing intricate details of its spiral arms and the contrasting dark dust lane. This image has become an iconic representation of the galaxy.",
+        "card_button" : "View Details",
+        "card_designation" : "NGC 4826",
+        "card_type" : "Local Universe : Galaxy : Type : Spiral",
+        "card_distance" : "18 million light years",
+        "card_constillation" : "Coma Berenices",
+        "card_diameter" : "70,000 light years. ",
+        "card_heading" : "Black Eye Galaxy, Messier 64"
+
+    },
+
+    {
+        "card_image" : "images/spiral galaxy.jpg",
+        "card_title" : "Spiral",
+        "card_discription" : "Bold and beautiful, NGC 1300 is a marvelous example of a barred spiral galaxy. Unlike in other spiral galaxies where the starry arms curl outward from the center of the galaxy, NGC 1300's arms twist away from the ends of a straight bar of stars that stretches across the galaxy's core. Observational evidence suggests that our own galaxy, the Milky Way, is a barred spiral as well.NGC 1300's spiral arms include blue clusters of young stars, pink clouds that are forming new stars, and dark lanes of dust. Two prominent dust lanes also cut through the galaxy's bar, which contains mostly older, orangish stars. These dust lanes disappear into a tight spiral feature at the center of the bar. Interestingly, only galaxies with large bars appear to have such a spiral within a spiral. Hubble's image of NGC 1300, taken with the Advanced Camera for Surveys, reveals finer details in these features than ever seen before.Using Hubble to study more than 2,000 spiral galaxies both near and far, astronomers have learned that barred spiral galaxies are more common today than they were in the past. Led by Kartik Sheth of the Spitzer Science Center at the California Institute of Technology, the team found that 65 percent of present-day spiral galaxies have bars, but 7 billion years ago, only 20 percent of spirals had them. The researchers also noticed that the percentage of massive spiral galaxies that have bars was about the same in the past as it is today, but for low-mass spirals, more present-day galaxies have bars than the earlier ones do.  Galaxies take time to mature, so today's galaxies are typically more developed than those from billions of years ago. Astronomers also know that larger, more massive galaxies tend to develop faster — and thus earlier — than smaller, less massive galaxies do. The findings, therefore, imply that bars are a sign of maturity among spiral galaxies.",
+        "card_button" : "View Details",
+        "card_designation" : "Undefined",
+        "card_type" : "Early Universe : Galaxy : Type : Spiral",
+        "card_diameter" : "5 to 100 kiloparsecs across",
+        "Constillation" : "Eridanus",
+        "card_heading" : "Spiral",
+        "card_distance": "232 million light-years"
+
+    },
+
+    {
+        "card_image" : "images/tadpole galaxy.webp",
+        "card_title" : "Tadpole",
+        "card_discription" : "The Tadpole Galaxy, or disrupted spiral galaxy Arp 188, is set against a dramatic backdrop of distant galaxies in this breathtaking view captured by the Hubble Space Telescope's Advanced Camera for Surveys. Just 420 million light-years separate the cosmic tadpole from the northern constellation Draco. Its striking 280 thousand light-year tail is home to enormous, vivid blue star clusters. It is thought by scientists that a more compact intruder galaxy moved from left to right in front of Arp 188 and was thrown around by gravitational attraction behind the Tadpole. The galaxy's stars, gas, and dust were drawn out during the close encounter by tidal forces, creating the amazing tail. The intrusive galaxy itself is thought to be located roughly 300,000 light-years behind the Tadpole.observed via the upper left spiral arms of the foreground. As the Tadpole Galaxy ages, it is likely to lose its tail, with the star clusters in the tail forming smaller satellites of the massive spiral galaxy, just like its terrestrial namesake.",
+        "card_button" : "View Details",
+        "card_designation" : "UGC 10214 and Arp 188 ",
+        "card_type" : "type of tadpole galaxy ",
+        "card_diameter" : " 280,000 light-years",
+        "Constillation" : "Draco",
+        "card_heading" : "Tadpole",
+        "card_distance" : "420 million light-years"
+    },
+
+    {
+        "card_image" : "images/pinwheel-galaxy.jpg",
+        "card_title" : "Pinwheel",
+        "card_discription" : "The Pinwheel Galaxy is about twice the diameter of the Milky Way Galaxy, and is formally defined as a weakly barred spiral galaxy.There are more than 3,000 starbirth regions in the spiral arms of the Pinwheel Galaxy, the most of any similar type galaxy thus far observed. These are called HII regions, for the copious amounts of hydrogen they contain. The Pinwheel Galaxy has a fairly small central bulge, with about 3 billion solar masses. Compared to the starbirth action in the spiral arms, the bulge is very quiet, with almost no stars being born there.  While many galaxies have a central supermassive black hole, astronomers have not found one at the heart of the Pinwheel Galaxy. There are many x-ray sources in the Pinwheel Galaxy. They emanate from exploded stars and regions around stellar-mass black holes (where material is heated as it falls into the black hole). The Pinwheel belongs to a group of galaxies that are all interacting with each other gravitationally. As a result of this dance, their shapes are distorted.",
+        "card_button" : "View Details",
+        "card_designation" : "M101, Messier 101, or NGC 5457",
+        "card_type" : "Spiral Galax",
+        "card_diameter" : "170,000 light years",
+        "Constillation" : " Ursa Major,",
+        "card_heading" : "Pinwheel",
+        "card_distance" : "21 million light years"
+    },
+
+    {
+        "card_image" : "images/large magellanic galaxy.webp",
+        "card_title" : "Large-magellanic-Cloud",
+        "card_discription" : "Astronomers have made the most detailed map of the star formation history of the Large Magellanic Cloud to date. This history of one of our closest galactic neighbours could help us understand the history of our local region of space, as well as improving models of how stars and galaxies form. The Large Magellanic Cloud and Small Magellanic Cloud are satellite galaxies of the Milky Way, meaning they are all gravitationally bound to one another. At about 163,000 light years away, the Large Magellanic Cloud one of the nearest galaxies in the cosmos, which makes it one of only a few that we can study in detail.  Alessandro Mazzi at the University of Padua in Italy and his colleagues used data from the Visible and Infrared Survey Telescope for Astronomy (VISTA) in Chile to construct their map. It covers most of the galaxy – an area about 50 per cent bigger than older maps of star formation – at higher resolutions than previous work.",
+        "card_button" : "View Details",
+        "card_designation" : "LMC",
+        "card_type" : "dwarf irregular galaxy, ",
+        "card_diameter" : "9.96 kiloparsecs,",
+        "Constillation" : " Dorado, Mensa",
+        "card_heading" : "Large-magellanic-Cloud",
+        "card_distance" : "158,200 light years"
+    },
+
+    {
+        "card_image" : "images/cigar nasa.webp",
+        "card_title" : "Cigar",
+        "card_discription" : "M82 or the Cigar galaxy, shines brightly at infrared wavelengths and is remarkable for its star formation activity. The Cigar galaxy experiences gravitational interaction withitsgalacticneighbour, M81, causing it to have an extraordinarily high rate of star  formation — a starburst.• Messier (M82), or the Cigar Galaxy, is an edge-on spiral undergoing  massive burst of star formation in its core. Many thousands of stars, and their surrounding gas and dust, have been stirred up. These stars are expelling violent winds that are blowing gas and dust out of the galaxy.• M82 Galaxy Messier 82 is a starburst galaxy approximately 12 million light-years away inthe constellation Ursa Major. It is the second-largest member of the M81 Group,with the D₂₅ isophotal diameter of 12.52 kiloparsecs.",
+        "card_button" : "View Details",
+        "card_designation" : "Undefined",
+        "card_type" : "Barred Spiral",
+        "card_diameter" : "120,000",
+        "Constillation" : "Cassiopeia",
+        "card_heading" : "Cigar"
+    },
+
+    {
+        "card_image" : "images/triangulum-galaxy.jpg",
+        "card_title" : "Triangulum",
+        "card_discription" :"The Triangulum Galaxy is formally described as a spiral galaxy with a weak (or possibly no) central bar and its loosely wound arms emanate from the galactic core.The core of the Triangulum Galaxy is a nebula – a cloud of gas and dust – called an HII region.Areas such as this are prime regions for star formation.The Triangulum Galaxy is actively making stars. Its starbirth regions scattered throughout its spiral arms. Its starbirth rate is several times more than the Andromeda Galaxy.Andromeda and the Triangulum Galaxy are linked by streams of hydrogen gas and embedded stars. The two galaxies may have had a close interaction in the past and it looks as if they will do so again in about 2.5 billion years.",
+        "card_button" : "View Details",
+        "card_designation" : "M33 or NGC 598",
+        "card_type" : "Spiral",
+        "card_diameter" : "60,000 ly",
+        "Constillation" : "Triangulum",
+        "card_heading" : "Triangulum",
+        "card_distance" : "2.723 million light years"
+    },
+
+    {
+        "card_image" : "images/sombrero-galaxy.png",
+        "card_title" : "Sombrero",
+        "card_discription" : "Fascinating Facts About the Sombrero Galaxy The Sombrero Galaxy has a supermassive black hole in its center. The patterns of star movements near the black hole suggest that it could have the same mass as a billion of our suns. Researchers believe that the Sombrero’s black hole is the most massive of any that has been found at the heart of a galaxy. Astronomers don’t believe that the Sombrero Galaxy is the part of any formal galaxy group. Instead, it seems to be part of a string of galaxies that extend away from Virgo.The Sombrero Galaxy is about 3/10 the size of the Milky Way Galaxy.Vartox is a minor character from the Superman comics; he is described as hailing from the planet Valeron in the “Sombrero Hat” Galaxy.The Sombrero Galaxy has an apparent magnitude (brightness) of around 9.0 and can therefore be easily seen with ordinary telescopes.On a dark night, people can even see the Sombrero Galaxy through ordinary binoculars. It can be seen during the spring and early summer between the constellations Corvus and Virgo.There may be up to 2,000 globular clusters in the galaxy’s core, which is about ten times the number of clusters in the Milky Way Galaxy",
+        "card_button" : "View Details",
+        "card_designation" : "NGC 4594 or M104",
+        "card_type" : "Spiral",
+        "card_diameter" : "50,000 ly",
+        "Constillation" : " Virgo",
+        "card_heading" : "Sombrero"
+    },
+
+    {
+        "card_image" : "images/ngc 2207.webp",
+        "card_title" : "NGC 2207",
+        "card_discription" : "NGC 2207 is a pair of interacting spiral galaxies located in the constellation Canis Major. These galaxies are undergoing a gravitational interaction with their companion, IC 2163, causing significant distortions in their shapes. NGC 2207 is situated at a distance of approximately 80 million light-years fromEarth. It belongs to the category of barred spiral galaxies, featuring a central bar-shaped structure in its disk.The gravitational interaction has given rise to long tidal tails of stars and gas extending away from the main bodies of NGC 2207 and IC 2163. This interaction has also triggered intense star formation in affected regions, visible as bright, blue areas where new stars are actively being born.Astronomers have extensively studied NGC 2207 and IC 2163 using various telescopes, including the Hubble Space Telescope, to better understand the dynamics of interacting galaxies. NGC 2207 is the 2207th entry in the New General Catalogue (NGC), a catalog of astronomical objects compiled by John Louis Emil Dreyer.This interacting galaxy pair not only provides valuable insights into the effects of gravitational interactions on galaxy morphology but also serves as a captivating subject for amateur astronomers due to its distinctive appearance and unique features resulting from the ongoing interaction. ",
+        "card_button" : "View Details",
+        "card_designation" : "colliding spiral galaxies ",
+        "card_type" : "colliding spiral galaxies.",
+        "card_diameter" : "143,000 light-years",
+        "Constillation" : "Canis Major",
+        "card_heading" : "NGC 2207, and IC 2163",
+        "card_distance" : "114 million light-years"
+    },
+
+    {
+        "card_image" : "images/ic1101 galaxy.webp",
+        "card_title" : "IC1101-Galaxy",
+        "card_discription" : "Aug 15, 2023 - Unveiling Cosmic Giants: What the James Webb Telescope May Reveal About the Largest Galaxies The universe, a canvas painted with countless celestial marvels, houses galaxies of all shapes and sizes. Among these vast cosmic structures, a question of grandeur lingers: Which galaxy holds the title of the largest? As astronomers continue their quest for cosmic understanding, the James Webb Space Telescope (JWST) emerges as a powerful tool that could potentially unveil new secrets about the colossal galaxies that grace the night sky. The Cosmic Contenders: IC 1101 and ESO 325-G004, two massive galaxies that command cosmic respect, are under the keen gaze of astronomers. However, as the JWST comes into play, the stage is set for a new era of galactic exploration. IC 1101: The Behemoth of the Cosmos - IC 1101, a supergiant elliptical galaxy residing some 1.07 billion light-years away in the Abell 2029 galaxy cluster, dominates the cosmic stage. Spanning an astonishing 6 million light-years across, IC 1101 is a true behemoth, its size surpassing that of our Milky Way by several orders of magnitude. Its colossal mass and gravitational pull make it a celestial marvel, capturing the attention of astronomers seeking to unravel the mysteries of the universe's largest galaxies. As the JWST peers into the depths of space, it may unravel the galaxy's intricate details, shedding light on the mechanisms that propelled IC 1101 to its awe-inspiring dimensions.",
+        "card_button" : "View Details",
+        "card_designation" : "A2029-BCG",
+        "card_type" : "supergiant elliptical galaxy",
+        "card_diameter" : "3.9139 million light years",
+        "Constillation" : "Cassiopeia",
+        "card_heading" : "IC1101-Galaxy",
+        "card_distance" : "1.045 billion light years"
+    },
+
+    {
+        "card_image" : "images/ngc 1232.jpg",
+        "card_title" : "NGC 1232 ",
+        "card_discription" : "NGC 1232 is a barred spiral galaxy of about 200,000 light-years across (almost twice the size of our Milky Way), located some 61 million light-years away in the constellation of Eridanus (The River). Radiowave studies indicate a large envelope of neutral gas extending well beyond the optical extent of the galaxy. It shines with the light of 50 billion stars like the Sun and is about 2.2 times as bright as the Milky Way.Together with its satellite galaxy NGC 1232A (about 68 million light-years away, seen at the lower left) they are also known as Arp 41. Both are members of the Eridanus cluster of galaxies. NGC 1232 is moving away from us at approximately 1603 kilometers per second while NGC 1232A is speeding away from us at 6599 kilometers per second.NGC 1232 has a small bulge and long spiral arms that flare out widely from the center of the galaxy. Remarkable is its sheer number of thin arms. On the left side of the galaxy, you can count to either six or seven of them.The galaxy is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen between them.Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, producing such high mass that they dominate the dynamics of the inner galaxy. Not visible are even greater amounts of dark matter, needed to explain the motions of the visible material in the outer galaxy. NGC 1232 has undoubtedly interacted in complex ways with its smaller companion galaxy, and that interaction has left an indelible mark on the larger galaxy. The sweeping spiral arms appear to be “bent” in areas rather than the gently curving structures seen in undisturbed spiral galaxies. This aberration of the arms is likely due to gravitational encounters with NGC 1232A as it orbits the larger spiral.This image was obtained with the Very Large Telescope and FORS1 based on three exposures in ultra-violet, blue and red light, respectively.",
+        "card_button" : "View Details",
+        "card_designation" : "NGC 1232",
+        "card_type" : "Local Universe : Galaxy : Type : Spiral",
+        "card_diameter" : " 20 0,000 light years.",
+        "Constillation" : "Eridanus",
+        "card_heading" : "NGC 1232 ",
+        "card_distance" : "60.99 million light years"
+    },
+
+    {
+        "card_image" : "images/planetary nebula.jpg",
+        "card_title" : "Planetary Nebula",
+        "card_discription" : "The spectacular planetary nebula NGC 6302 lies roughly 3,800 light-years away in the constellatio Scorpius. More popularly known as the Bug Nebula or the Butterfly Nebula, this celestial object looks like a delicate butterfly. But what resemble dainty wings are actually roiling regions of gas heated to more than 36,000 degrees Fahrenheit. The gas is tearing across space at more than 600,000 miles an hour fast enough to travel from Earth to the Moon in 24 minutes. The glowing gas is the star's outer layers, expelled over about 2,200 years. The butterfly stretches for more than two light-years, which is about half the distance from the Sun to the nearest star, Alpha Centauri. A dying star that was once about five times the mass of the Sun is at the center of this fury. It has ejected its envelope of gases and is now unleashing a stream of ultraviolet radiation that is making the cast-off material glow. ",
+        "card_button" : "View Details",
+        "card_designation" : "NGC 1535,",
+        "card_type" : "Emission nebula",
+        "card_diameter" : "9.5 x 1012 km",
+        "Constillation" : "Vulpecula",
+        "card_heading" : "Planetary Nebula",
+        "card_distance" : "650 light-years "
+    },
+
+    {
+        "card_image" : "images/eso1740a.jpg",
+        "card_title" : "ESO-1740-A",
+        "card_discription" : " The ESO-1740-A Astronomers think these galaxies’ odd shapes are sometimes the result of interactions with others. For example, one spiral galaxy passing another with a stronger gravitational pull could lose some of its material, become distorted, and morph into a new shape. Some, like gas-rich dwarf galaxies, may be new, formed by material pulled from such encounters. Or perhaps when galaxies collide, they create a larger, oddly shaped mashup. Some scientists theorize that some large irregular galaxies could represent an intermediate step between spiral and elliptical galaxies.Irregular galaxies born from galaxy interactions or collisions typically host a mix of older and younger stars, depending on the characteristics and composition of the original galaxies. Irregular galaxies may also hold significant amounts of gas and dust – essential ingredients for making new stars.",
+        "card_button" : "View Details",
+        "card_designation" : "ESO-1740-A",
+        "card_type" : "Spiral 1740",
+        "card_diameter" : "1 million light year",
+        "Constillation" : "gorilla ",
+        "card_heading" : "ESO-1740-A"
+    },
+
+    {
+        "card_image" : "images/atacama large.jpg",
+        "card_title" : "Atacama",
+        "card_discription" : "Unlike the dragon-filled show House of the Dragon the bright heat from this celestial monster spotted by the Hubble Space Telescope is nothing to be feared. In fact, it's a super helpful tool that helps gauge the expansion of the universe. The spiral galaxy UGC 9391 is located within the constellation Draco (the dragon), a long serpentine patch of sky that never appears in the southern sky because of its location near the celestial north pole. Astronomers have peered into this sliver of sky between the Big Dipper and Little Dipper because the light from certain stars within galaxy UGC 9391 are special beacons. A recently published image from the Hubble Space Telescope showcases UGC 9391 against a backdrop of ultra-distant galaxies, and a Sept. 30 image description calls it lonely.What it lacks in company it makes up for in character. According to the European Space Agency's (ESA) description – it manages the iconic observatory alongside NASA – galaxy UGC 9391 is packed with two fascinating light sources: Cepheid variable stars and a Type IA supernova. These help astronomers figure out distances in space. ",
+        "card_button" : "View Details",
+        "card_designation" : "Undefined",
+        "card_type" : "Barred Spiral",
+        "card_diameter" : "120,000",
+        "Constillation" : "Cassiopeia",
+        "card_heading" : "Atacama-Large"
+    }
+    
+
+
+
+]
